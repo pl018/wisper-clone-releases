@@ -1,0 +1,5 @@
+*.exe binary
+*.msi binary
+*.sig binary
+*.json text eol=lf
+*.md text eol=lf
