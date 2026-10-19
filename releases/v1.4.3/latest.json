@@ -1,0 +1,27 @@
+{
+    "version":  "1.4.3",
+    "notes":  "",
+    "pub_date":  "2026-10-19T05:18:09.588Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRXBjK05zZHJUZlh1K01KQy81YXJ0SkpuS3Q1QU1yZ2p6STltenFwMDRsUWZ1VU40dis1eGFTNGVKZkVVWkxJbGFXbHI1djJhNkM0U1JiV2pMNGg5ZXNRTU5qZnJYbVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzg1NjI5CWZpbGU6V2lzcGVyIENsb25lXzEuNC4zX3g2NC1zZXR1cC5leGUKYVBiUmVzalhjSG9FL2RMczE5RzdlRGUvdHBtMmxQaGhyNlJ5OFFHN1NPcjdsR0RBOUZoYzdDYkdFV0xPNGJyVFNzZnBKMGxPVUhmVmtYeHdjS1NoQXc9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/pl018/wisper-clone-releases/main/releases/v1.4.3/Wisper.Clone_1.4.3_x64-setup.exe"
+                                         },
+                      "windows-x86_64-nsis":  {
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRXBjK05zZHJUZlh1K01KQy81YXJ0SkpuS3Q1QU1yZ2p6STltenFwMDRsUWZ1VU40dis1eGFTNGVKZkVVWkxJbGFXbHI1djJhNkM0U1JiV2pMNGg5ZXNRTU5qZnJYbVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzg1NjI5CWZpbGU6V2lzcGVyIENsb25lXzEuNC4zX3g2NC1zZXR1cC5leGUKYVBiUmVzalhjSG9FL2RMczE5RzdlRGUvdHBtMmxQaGhyNlJ5OFFHN1NPcjdsR0RBOUZoYzdDYkdFV0xPNGJyVFNzZnBKMGxPVUhmVmtYeHdjS1NoQXc9PQo=",
+                                                  "url":  "https://raw.githubusercontent.com/pl018/wisper-clone-releases/main/releases/v1.4.3/Wisper.Clone_1.4.3_x64-setup.exe"
+                                              },
+                      "windows-x86_64-msi":  {
+                                                 "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRXBjK05zZHJUZlNyTHIxSllJQ0NWTkJoTThrMDV2Wkh3NW1CNWhjTlUvUUwydFRDaVJOWG45VmdpTmtWLzRPVGhJRWNLYTBKNzJsbkFzU2VRNmFGMXpDUDNzVG5Nc2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzg1NjI5CWZpbGU6V2lzcGVyIENsb25lXzEuNC4zX3g2NF9lbi1VUy5tc2kKNVdwT3VIRkh6STJVSWI4UGZ1bE5KY0RaUlgrYytDa1NDTEJEMVM0S1gwS3J2REV4ZE5lbUhKcERpbWhPenhYZXpNK3YzKzdEaFNxaFdOd2JJVWNHQmc9PQo=",
+                                                 "url":  "https://raw.githubusercontent.com/pl018/wisper-clone-releases/main/releases/v1.4.3/Wisper.Clone_1.4.3_x64_en-US.msi"
+                                             },
+                      "linux-x86_64":  {
+                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRXBjK05zZHJUZmMxczAxSjMvdGtidnc3bmhVSk5wSmxoNGR4dTlSOTh0NXlLbitSbUNVeHFVd2owdEd0aGJDMXBxc3BEdjUyTUtjLzQ2a0tJMU5yWFllQm1YMVh0TWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzg3MDgyCWZpbGU6V2lzcGVyIENsb25lXzEuNC4zX2FtZDY0LkFwcEltYWdlCkFEcjBsRjc4MEhLQkdqUGpFdzlVSFo2LzJmR1lad3ZyTFJ0Vm9tYmYvdWVDL2t5bVU0TUdqMFR3WGwzSkdCMHB2M1dNdnFHNG92SjkvQkJHK2g3ckRnPT0K",
+                                           "url":  "https://raw.githubusercontent.com/pl018/wisper-clone-releases/main/releases/v1.4.3/Wisper.Clone_1.4.3_amd64.AppImage"
+                                       },
+                      "linux-x86_64-appimage":  {
+                                                    "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRXBjK05zZHJUZmMxczAxSjMvdGtidnc3bmhVSk5wSmxoNGR4dTlSOTh0NXlLbitSbUNVeHFVd2owdEd0aGJDMXBxc3BEdjUyTUtjLzQ2a0tJMU5yWFllQm1YMVh0TWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzg3MDgyCWZpbGU6V2lzcGVyIENsb25lXzEuNC4zX2FtZDY0LkFwcEltYWdlCkFEcjBsRjc4MEhLQkdqUGpFdzlVSFo2LzJmR1lad3ZyTFJ0Vm9tYmYvdWVDL2t5bVU0TUdqMFR3WGwzSkdCMHB2M1dNdnFHNG92SjkvQkJHK2g3ckRnPT0K",
+                                                    "url":  "https://raw.githubusercontent.com/pl018/wisper-clone-releases/main/releases/v1.4.3/Wisper.Clone_1.4.3_amd64.AppImage"
+                                                }
+                  }
+}
